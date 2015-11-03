@@ -1,5 +1,5 @@
 {
-  "name": "react-flexgrid",
+  "name": "seth-flexgrid",
   "version": "0.1.0",
   "description": "Flexbox Grid reimagined as a set of React components",
   "main": "./lib/index.js",
